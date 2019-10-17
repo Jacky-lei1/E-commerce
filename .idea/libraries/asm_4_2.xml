@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="asm-4.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mybatisGenerator/lib/asm-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mybatisGenerator/lib/cglib-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mybatisGenerator/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mybatisGenerator/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mybatisGenerator/lib/log4j-api-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mybatisGenerator/lib/log4j-core-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mybatisGenerator/lib/mybatis-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mybatisGenerator/lib/mybatis-generator-core-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mybatisGenerator/lib/mysql-connector-java-5.1.20-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mybatisGenerator/lib/slf4j-api-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mybatisGenerator/lib/slf4j-log4j12-1.7.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

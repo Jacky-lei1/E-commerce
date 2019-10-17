@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ajax-origin" />
+        <module name="dubbo-provider" />
+        <module name="order-sys" />
+        <module name="red-sys" />
+        <module name="rmi-cluster-provider" />
+        <module name="rmi-consumer" />
+        <module name="rmi-provider" />
+        <module name="rmi-resource" />
+        <module name="user-sys" />
+        <module name="ws-consumer" />
+        <module name="ws-provider" />
+        <module name="zk-cluster-consumer" />
+        <module name="zk-cluster-provider" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
